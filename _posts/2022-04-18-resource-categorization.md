@@ -8,9 +8,9 @@ image: https://images.unsplash.com/photo-1497215728101-856f4ea42174?ixlib=rb-1.2
 
 Resource ASK has 4 main factors that contribute to resource categorization **Category, Expiration, Area, and Gender.** An example of a resource in our database is similar to the following:
 
-| *Url or File Link*       | Category         | Expiration      | Gender          |
-|--------------------------|------------------|-----------------|-----------------|
-| https://example.com      | Loans            | 05-30-2022      | None            |
+| *Url or File Link*           |       Category      |     Expiration      |       Gender       |
+|------------------------------|---------------------|---------------------|--------------------|
+| https://example.com          |       Loans         |     05-30-2022      |       None         |
 
 
 ---
