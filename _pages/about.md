@@ -38,12 +38,8 @@ It searches the web for key word’s related to business resources and send’s 
 ### The Chat Bot in Action
 
 <iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948583-1e6e30af-f1fb-45d7-a60d-680f11231f1e.mp4" frameborder="0"> </iframe>
-
-https://user-images.githubusercontent.com/58146873/164948583-1e6e30af-f1fb-45d7-a60d-680f11231f1e.mp4
-
-https://user-images.githubusercontent.com/58146873/164948584-4e09d863-fdb3-44ae-a8e5-c6c7c2786942.mp4
-
-https://user-images.githubusercontent.com/58146873/164948590-9a5760e4-790b-4548-9fae-44edbc0ce39f.mp4
+<iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948584-4e09d863-fdb3-44ae-a8e5-c6c7c2786942.mp4" frameborder="0"> </iframe>
+<iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948590-9a5760e4-790b-4548-9fae-44edbc0ce39f.mp4" frameborder="0"> </iframe>
 
 ##### Our Services
 ## The Resource ASK Slack Workspace
