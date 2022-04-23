@@ -2,8 +2,8 @@
 name: "Resource ASK"
 title: "Resource ASK"
 description: "A guide towards business success for Black entrepreneurs."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/website-logo.png'
+favicon: 'assets/images/website-logo.png'
 baseurl: /resource-ask
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
