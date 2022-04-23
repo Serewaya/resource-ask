@@ -19,7 +19,7 @@ A great percentage of Black entrepreneurs do not have access to support or advic
 
 ![Stat 2](https://user-images.githubusercontent.com/58146873/164948413-2cf919f0-abd7-4ae0-8022-dc76a3268412.png)
 
-![Stat 3](https://user-images.githubusercontent.com/58146873/164948418-74541591-3f36-48b3-bf60-b3641725415b.png)
+![Stat 3](https://user-images.githubusercontent.com/58146873/164948445-c823c532-2fbb-4495-8685-8995bc0e9f27.png)
 
 ---
 
