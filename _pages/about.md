@@ -37,7 +37,7 @@ It searches the web for key word’s related to business resources and send’s 
 
 ### The Chat Bot in Action
 
-<iframe width="800" height="800" src="https://user-images.githubusercontent.com/58146873/164948583-1e6e30af-f1fb-45d7-a60d-680f11231f1e.mp4" frameborder="0"> </iframe>
+<iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948583-1e6e30af-f1fb-45d7-a60d-680f11231f1e.mp4" frameborder="0"> </iframe>
 
 https://user-images.githubusercontent.com/58146873/164948583-1e6e30af-f1fb-45d7-a60d-680f11231f1e.mp4
 
