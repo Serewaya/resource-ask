@@ -35,7 +35,7 @@ _By sharing relevant loans, bootcamps, and webinars, in addition to offering net
 #### The key to spreading resources to Black entrepreneurs is the Resource ASK Chat Bot. It is a dynamic resource finder that collects web pages related to business resources with a high degree of accuracy. 
 It searches the web for key word’s related to business resources and send’s retrieved webpages to the Resource ASK Team. The Resource ASK Team then categories these webpages according to much benefit they can give to Black entrepreneurs and submits them to a database. When an entrepreneur goes to search for a resource through Slack or our website the Resource ASK Chat Bot will send the most relevant resources from the database to the entrepreneur along with a short blurb. This process ensures for resources to be sent to the entrepreneur efficiently which increases their access to business resources by 40%.
 
-### The Chat Bot in Action
+### Demo Videos
 
 **Output a Resource from the Database**
 <iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948590-9a5760e4-790b-4548-9fae-44edbc0ce39f.mp4" frameborder="0"> </iframe>
@@ -46,6 +46,7 @@ It searches the web for key word’s related to business resources and send’s 
 **Log a Resource into the Database**
 <iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948584-4e09d863-fdb3-44ae-a8e5-c6c7c2786942.mp4" frameborder="0"> </iframe>
 
+---
 
 ##### Our Services
 ## The Resource ASK Slack Workspace
