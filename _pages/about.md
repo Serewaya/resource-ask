@@ -3,8 +3,6 @@ layout: page
 title: Resource ASK, a Black led organization with a mission to spread curated business resources to Black entrepreneurs. 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
-imageshadow: true
 ---
 
 ## The Challenge
