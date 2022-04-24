@@ -21,5 +21,4 @@ The two pieces of personal information that the Resource ASK Bot requires are **
  **We Promise:**
  - No ad's
  - No tracking
- - No social features
  - Always private
