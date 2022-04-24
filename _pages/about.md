@@ -6,53 +6,34 @@ comments: false
 ---
 
 ---
-## The Challenge
-
+### The Problem
 A great percentage of Black entrepreneurs do not have access to support or advice to help them run their businesses. Access to funding, financing, capital and sales is a great challenge for Black entrepreneurs with 75% of them saying that if they need $10,000 to support their business it would be difficult for them to do so.
 
+#### A Deeper Look
+
+![entrepreneurship_chart](https://user-images.githubusercontent.com/58146873/164992693-44f2644e-5325-44ff-8d59-c33b59025f9d.png)
+
+![comparison chart](https://user-images.githubusercontent.com/58146873/164992696-8fcb3593-f7e1-4e49-897a-83007ea7d648.png)
+
+![networking_chart](https://user-images.githubusercontent.com/58146873/164992701-e75aea0d-dbd9-44ff-9e07-a2282eab75e2.png)
 ---
 
-## A Deeper Look
+_Our Solution_
 
-![Stat 1](https://user-images.githubusercontent.com/58146873/164948406-551fbf27-341a-4ff0-bd7f-a8e32d9d5603.png)
+### The Resource ASK Bot
+The current situation of Black entrepreneurs is not that there are no resources available for them but it is that they don’t have access to them. Many business resources can only be found through specific channels such as connections, and spending hours searching the web.
 
-![Stat 2](https://user-images.githubusercontent.com/58146873/164948413-2cf919f0-abd7-4ae0-8022-dc76a3268412.png)
+Resource ASK aims to change this through the use of the Resource ASK Bot, a dynamic resource finder that searches the web for resources relevant to Black Entrepreneurs. It not only collects a mass amount of business resources but also categorizes them according to the specific needs of users.
 
-![Stat 3](https://user-images.githubusercontent.com/58146873/164948445-c823c532-2fbb-4495-8685-8995bc0e9f27.png)
+##### So How Does It Work?
+Using a web scraping algorithm the bot retrieves web pages that include occurrences of key words that hold importance to black entrepreneurs. These web pages are then sent to the Resource ASK Team for verification and categorization. After this process the classifications are submitted to a database which is where the bot retrieves listings upon a request from the user. See this [link](https://serewaya.github.io/resource-ask/resource-categorization/) for more information on the specific categorization process.
 
----
+The Bot is optimized for use on chatting platforms such as Discord and Slack, this allows for user input to be analyzed and responded to quickly. If you want to see demo videos of the Bot’s prototype click this link.
 
-## Who We Are
 
-#### Resource ASK is a Black led organization with a mission to spread curated business resources to Black entrepreneurs.
-_By sharing relevant loans, bootcamps, and webinars, in addition to offering networking opportunities Resource ASK sets Black entrepreneurs onto the road to success._
+_Our Solution_
 
----
+### The Slack Workspace
+As many Black entrepreneurs face barriers in access to networking opportunities, connections that may help take their businesses to the next level are non-existent to them. To solve this problem Resource ASK is developing a Slack workspace, which would connect Black entrepreneurs to one another and potential investors.
 
-##### Our Services
-## The Resource ASK Chat Bot
-
-#### The key to spreading resources to Black entrepreneurs is the Resource ASK Chat Bot. It is a dynamic resource finder that collects web pages related to business resources with a high degree of accuracy. 
-It searches the web for key word’s related to business resources and send’s retrieved webpages to the Resource ASK Team. The Resource ASK Team then categories these webpages according to much benefit they can give to Black entrepreneurs and submits them to a database. When an entrepreneur goes to search for a resource through Slack or our website the Resource ASK Chat Bot will send the most relevant resources from the database to the entrepreneur along with a short blurb. This process ensures for resources to be sent to the entrepreneur efficiently which increases their access to business resources by 40%.
-
-### Demo Videos
-
-**Output a Resource from the Database**
-<iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948590-9a5760e4-790b-4548-9fae-44edbc0ce39f.mp4" frameborder="0"> </iframe>
-
-**Output a Resource by Google Searching**
-<iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948583-1e6e30af-f1fb-45d7-a60d-680f11231f1e.mp4" frameborder="0"> </iframe>
-
-**Log a Resource into the Database**
-<iframe width="800" height="400" src="https://user-images.githubusercontent.com/58146873/164948584-4e09d863-fdb3-44ae-a8e5-c6c7c2786942.mp4" frameborder="0"> </iframe>
-
----
-
-##### Our Services
-## The Resource ASK Slack Workspace
-
-#### Black entrepreneurs get much less networking opportunities then their non-black counterparts, to solve this problem the Resource ASK Slack Workspace connects these entrepreneurs to successful entrepreneurs that are also Black. 
-In the Resource ASK Slack Workspace there are many Black entrepreneurs spread across a variety of business sectors ready to make connections and advise any entrepreneurs in need of support. Resources ASK also offers mentorship opportunities to entrepreneurs starting out, through a 2-step quiz the Resource ASK Team connects new entrepreneurs to experienced entrepreneurs in their sector who would act as their mentor.
-
----
-
+In the Slack Workspace users will have access to the Resource ASK Bot in addition to a community of people that are in similar circumstances which they can lean on for support. This allows for new users to make connections with people in similar business sectors and for potential mentorship opportunities to be formed.
