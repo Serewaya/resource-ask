@@ -16,7 +16,7 @@ We ensure that user information that is entered through our search commands is n
 ## Why We Use Wide Classifications
 The two pieces of personal information that the Resource ASK Bot requires are **Area and Gender**. In order to ensure that we don’t have very specific user information these clauses can be entered as only 1 of 3 options. In addition we don’t focus in on location but look at a wide area scope of the country that you are located in.
 
- All that was stated above provide for information to be indistinct if a data breach occurs to Google which is where the Resource ASK Bot’s activities occur. Which allow for data the data not to hold much relevance to you as an individual which would put you at risk.  
+ All that was stated above provide for information to be indistinct if a data breach occurs, this allows for the data not to hold much relevance to you as an individual which would put you at risk.  
  
  **We Promise:**
  - No ad's
