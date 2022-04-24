@@ -28,7 +28,7 @@ Resource ASK aims to change this through the use of the Resource ASK Bot, a dyna
 ##### So How Does It Work?
 Using a web scraping algorithm the bot retrieves web pages that include occurrences of key words that hold importance to black entrepreneurs. These web pages are then sent to the Resource ASK Team for verification and categorization. After this process the classifications are submitted to a database which is where the bot retrieves listings upon a request from the user. See this [link](https://serewaya.github.io/resource-ask/resource-categorization/) for more information on the specific categorization process.
 
-The Bot is optimized for use on chatting platforms such as Discord and Slack, this allows for user input to be analyzed and responded to quickly. If you want to see demo videos of the Bot’s prototype click this link.
+The Bot is optimized for use on chatting platforms such as Discord and Slack, this allows for user input to be analyzed and responded to quickly. If you want to see demo videos of the Bot’s prototype click this [link](https://serewaya.github.io/resource-ask/prototype-demos/).
 
 
 _Our Solution_
