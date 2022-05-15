@@ -14,4 +14,5 @@ The category is the main classification of the resource, it shows what the resou
 1. Funding
 2. Mentorship
 3. Marketing
-4. Advice -  Financial and Branding
+4. Networking
+5. Advice -  Financial and Branding
