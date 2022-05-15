@@ -11,10 +11,7 @@ The category is the main classification of the resource, it shows what the resou
 
 ### See this list of available categories:
 
-1. Assistance
-2. Loans
-3. Funds
-4. Support
-5. Advice
-6. Resources
-7. Mentorship
+1. Funding
+2. Mentorship
+3. Marketing
+4. Advice -  Financial and Branding
